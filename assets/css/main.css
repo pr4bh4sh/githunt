@@ -28,8 +28,8 @@ body {
     padding-top: 1px;
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
-    background: #ECE1E1;
-    color: #333;
+    background: #0c135d;
+    color: #C5CAE9;
 }
 
 a {
@@ -44,7 +44,7 @@ a {
     border: 2px solid #333;
     color: #333;
     margin: 0 5px;
-    background: white;
+    background: #9FA8DA;
     box-shadow: 2px 2px #333;
     outline: none;
 }
@@ -126,7 +126,7 @@ div.container {
     box-sizing: border-box;
     padding: 15px;
     height: 200px;
-    background: #fefefe;
+    background: #9FA8DA;
     float: left;
     position: relative;
     margin: 0 20px 20px 0px;
@@ -206,7 +206,7 @@ h1.date-head:first-letter {
     padding-right: 0;
     position: relative;
     cursor: pointer;
-    border-color: white;
+    border-color: #9FA8DA;
 }
 
 .btn-select select {
@@ -219,7 +219,7 @@ h1.date-head:first-letter {
     display: inline-block;
     width: 150px;
     outline: none;
-    background: white;
+    background: #9FA8DA;
     padding: 0px 5px 0px 10px;
     cursor: pointer;
 }
